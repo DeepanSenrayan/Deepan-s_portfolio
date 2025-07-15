@@ -333,8 +333,8 @@ const Home = () => {
             </ul>
           </div>
           <div className='col-lg-4'>
-            <i className='bi bi-whatsapp' ></i>
-            <i className='bi bi-instagram'></i>
+          <a href='https://wa.me/qr/TZ6PE2Q6BW4QF1'><i className='bi bi-whatsapp'></i></a>
+          <a href='https://www.instagram.com/mischief_kutty_?igsh=enEwbnBtdWRmNXBv'><i className='bi bi-instagram'></i></a>
             <i className='bi bi-linkedin'></i>
             <i className='bi bi-facebook'></i>
             <div className='py-4'>
